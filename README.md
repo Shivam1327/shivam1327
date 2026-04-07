@@ -6,15 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shivam1327.png" width="120" style="border-radius:50%;" />
-</p>
-
-<p align="center">
   <a href="https://github.com/shivam1327"><b>shivam1327</b></a>
 </p>
 
 ---
-
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Web Development, Java, SQL, Manual Testing**
