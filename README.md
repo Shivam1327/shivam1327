@@ -1,30 +1,66 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A Passionate Frontend Developer and Cloud Engineer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivam1327&label=Visitors&color=blueviolet&style=for-the-badge" alt="shivam1327" />
+  <img src="https://komarev.com/ghpvc/?username=shivam1327&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/shivam1327">shivam1327</a>
+<p align="center">
+  <img src="https://github.com/shivam1327.png" width="120" style="border-radius:50%;" />
 </p>
-- 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **WEB DEVELOPEMENT, CLOUD, MANUAL TESTING, ANALYST**
+<p align="center">
+  <a href="https://github.com/shivam1327"><b>shivam1327</b></a>
+</p>
+
+---
+
+- 🔭 I’m currently working on **React Projects**
+
+- 🌱 I’m currently learning **Web Development, Java, SQL, Manual Testing**
 
 - 📫 How to reach me **san.shivam1327@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivamkr1327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamkr1327" height="30" width="40" /></a>
-<a href="https://instagram.com/mishraji._13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishraji._13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivamkr1327" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/mishraji._13" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam1327&show_icons=true&locale=en&layout=compact" alt="shivam1327" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam1327&show_icons=true&locale=en" alt="shivam1327" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1327&" alt="shivam1327" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam1327&layout=compact" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam1327&show_icons=true" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1327" /></p>
