@@ -6,10 +6,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/shivam1327.png" width="40" style="border-radius:50%;" />
-  <b>shivam1327</b>
+  <a href="https://github.com/shivam1327">shivam1327</a>
 </p>
-
 - 🔭 I’m currently working on **React Project**
 
 - 🌱 I’m currently learning **WEB DEVELOPEMENT, CLOUD, MANUAL TESTING, ANALYST**
