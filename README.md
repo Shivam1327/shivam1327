@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer and Cloud developer</h3>
+<h3 align="center">A Passionate Frontend Developer and Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam1327&label=Profile%20views&color=0e75b6&style=flat" alt="shivam1327" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam1327" alt="shivam1327" /></a> </p>
 
-- 🔭 I’m currently working on **Capstone**
+- 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **AWS,DOCKER,KUBERNETES, CI/CD**
+- 🌱 I’m currently learning **WEB DEVELOPEMENT, CLOUD, MANUAL TESTING, ANALYST**
 
 - 📫 How to reach me **san.shivam1327@gmail.com**
 
