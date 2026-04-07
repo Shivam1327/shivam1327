@@ -5,7 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=shivam1327&label=Visitors&color=blueviolet&style=for-the-badge" alt="shivam1327" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam1327" alt="shivam1327" /></a> </p>
+<p align="left">
+  <img src="https://github.com/shivam1327.png" width="40" style="border-radius:50%;" />
+  <b>shivam1327</b>
+</p>
 
 - 🔭 I’m currently working on **React Project**
 
